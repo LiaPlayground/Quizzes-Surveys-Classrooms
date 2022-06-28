@@ -137,11 +137,11 @@ Do you like LiaScript so far?
 
 Would yo please rate it?
 
-    [(5 stars)] ⭐ ⭐ ⭐ ⭐ ⭐
-    [(4 stars)] ⭐ ⭐ ⭐ ⭐
-    [(3 stars)] ⭐ ⭐ ⭐
-    [(2 stars)] ⭐ ⭐
-    [(1 star)]  ⭐
+    [(5)] ⭐ ⭐ ⭐ ⭐ ⭐
+    [(4)] ⭐ ⭐ ⭐ ⭐
+    [(3)] ⭐ ⭐ ⭐
+    [(2)] ⭐ ⭐
+    [(1)] ⭐
 
 
 ### Where would you improve it?
